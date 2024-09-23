@@ -1,50 +1,46 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Restaurant Finder
 
-## Get started
+Restaurant Finder, kullanıcıların API'den alınan restoranları görüntülemesine ve arama yaparak çeşitli yemek türlerini bulmasına olanak tanıyan bir React Native uygulamasıdır. Uygulama, restoranların yıldız değerlendirmelerini ve kaç kişi tarafından değerlendirildiğini gösterir.
 
-1. Install dependencies
+## Özellikler
 
+- Restoranları listeleme
+- Yıldız değerlendirmeleri ve kullanıcı sayısı
+- Restoranlar arasında arama yapma (tost, lahmacun, kebap vb.)
+- Modern ve kullanıcı dostu arayüz
+
+## Teknolojiler
+
+- React Native
+- Axios (API istekleri için)
+- React Navigation
+- Vector Icon
+
+## Kurulum
+
+Projenizi yerel ortamda çalıştırmak için aşağıdaki adımları izleyin:
+
+1. Bu depo'yu klonlayın:
+   ```bash
+   git clone https://github.com/ricoglr/RestaurantApp
+   cd RestaurantApp
+   ```
+
+2. Gerekli bağımlılıkları yükleyin:
    ```bash
    npm install
    ```
 
-2. Start the app
-
+3. Uygulamayı başlatın:
    ```bash
-    npx expo start
+   npm start
    ```
 
-In the output, you'll find options to open the app in a
+## Kullanım
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Uygulamayı başlattıktan sonra, ana ekran üzerinden restoranları görüntüleyebilir ve arama çubuğunu kullanarak istediğiniz yemek türlerini arayabilirsiniz.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Ekran Görüntüleri
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<img src="assets/images/screenshots.png" alt="Restoran Ekranı" width="100"/>
