@@ -42,5 +42,11 @@ Projenizi yerel ortamda çalıştırmak için aşağıdaki adımları izleyin:
 Uygulamayı başlattıktan sonra, ana ekran üzerinden restoranları görüntüleyebilir ve arama çubuğunu kullanarak istediğiniz yemek türlerini arayabilirsiniz.
 
 ## Ekran Görüntüleri
+<div>
+  <img src="assets/images/screenshots.png" alt="Restoran Ekranı" width="100" style="display: inline-block;"/>
+   &nbsp;
+   &nbsp;
+  <img src="assets/images/screenshots2.png" alt="Restoran Ekranı" width="100" style="display: inline-block;"/>
+</div>
 
-<img src="assets/images/screenshots.png" alt="Restoran Ekranı" width="100"/>
+
