@@ -1,7 +1,7 @@
 
 # Restaurant App
 
-Restaurant Finder, kullanıcıların API'den alınan restoranları görüntülemesine ve arama yaparak çeşitli yemek türlerini bulmasına olanak tanıyan bir React Native uygulamasıdır. Uygulama, restoranların yıldız değerlendirmelerini ve kaç kişi tarafından değerlendirildiğini gösterir.
+Restaurant app, kullanıcıların API'den alınan restoranları görüntülemesine ve arama yaparak çeşitli yemek türlerini bulmasına olanak tanıyan bir React Native uygulamasıdır. Uygulama, restoranların yıldız değerlendirmelerini ve kaç kişi tarafından değerlendirildiğini gösterir.
 
 ## Özellikler
 
