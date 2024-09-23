@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "api/yelp.js", "app/screens/SearchScreen.js", "hooks/useResults.js", "components/ResultList.js", "app/screens/SearchScreen.js", "app/screens/SearchScreen.js", "hooks/useResults.js", "hooks/useResults.js", "components/ResultDetail.js"  ]
 }
